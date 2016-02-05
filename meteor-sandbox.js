@@ -1,0 +1,1 @@
+Sandbox = Meteor.npmPackage('sandbox');
