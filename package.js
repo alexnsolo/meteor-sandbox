@@ -2,8 +2,8 @@ Package.describe({
   name: 'meteor-sandbox',
   version: '0.8.6',
   summary: 'A Meteor port of https://github.com/gf3/sandbox',
-  git: 'https://github.com/civilframe/meteor-sandbox',
-  documentation: null
+  git: 'https://github.com/civilframe/meteor-sandbox.git',
+  documentation: 'README.md'
 });
 
 Npm.depends({
